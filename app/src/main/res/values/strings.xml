@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyCl1AndreeChiquisApp</string>
+    <string name="ceviche">Ceviche</string>
+    <string name="dni">DNI</string>
+    <string name="nombres">Nombres</string>
+    <string name="medio_de_pago">Medio de Pago</string>
+    <string name="efectivo">Efectivo</string>
+    <string name="tarjeta">Tarjeta</string>
+    <string name="incluir_bolsas">Incluir bolsas</string>
+    <string name="incluir_delivery">Incluir delivery</string>
+    <string name="montos">Montos</string>
+    <string name="bolsas">Bolsas</string>
+    <string name="men">Menú</string>
+    <string name="delivery">Delivery</string>
+    <string name="adicional">T.Adicional</string>
+    <string name="total">TOTAL:</string>
+    <string name="imprimir">Imprimir</string>
+    <string name="desconocido">Desconocido</string>
+    <string name="adicionaless">Adicionales</string>
+</resources>
